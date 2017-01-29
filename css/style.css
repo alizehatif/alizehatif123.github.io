@@ -1,0 +1,40 @@
+
+.green{
+	background-color: #E9B1EA;
+}
+
+.red {
+	background-color: #E9B1EA;
+}
+
+.name{
+	color: #5F0B1C;
+	font-family:'Marck Script', cursive;
+	font-weight: bolder;
+	font-size: 40px;
+
+}
+
+img {
+	width: 125%;
+}
+
+
+.padding{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+.canvas{
+	color:#5F0B1C;
+	font-family:'Marck Script',cursive;
+	text-align: right;
+	font-size: 40px;
+}
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 60%;
+      margin: auto;
+  }
